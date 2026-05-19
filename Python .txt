@@ -1,0 +1,14 @@
+# Create virtual environment
+python -m venv venv
+
+
+# Activate it
+# On Windows:
+venv\Scripts\activate
+
+# Run the server
+python -m app.main
+
+# Or using uvicorn directly
+
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
