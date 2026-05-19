@@ -527,7 +527,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👨‍💻 Author
 
-**Your Name** · [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Your Name** · [GitHub](https://github.com/milan-Sayuraka) · [LinkedIn](https://www.linkedin.com/in/milan-sayuraka-55b90a1b8/)
 
 ---
 
